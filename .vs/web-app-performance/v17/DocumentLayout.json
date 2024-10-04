@@ -1,0 +1,211 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\MicroService-App-Performance19-09-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7AA66F56-3C4C-4E0B-869E-7E5E68BB4AA9}|web-app-repository\\web-app-repository.csproj|d:\\microservice-app-performance19-09-main\\web-app-repository\\produtorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AA66F56-3C4C-4E0B-869E-7E5E68BB4AA9}|web-app-repository\\web-app-repository.csproj|solutionrelative:web-app-repository\\produtorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{750523A7-21ED-4CFF-BB1E-D6285B2217A1}|web-app-performance\\web-app-performance.csproj|d:\\microservice-app-performance19-09-main\\web-app-performance\\controllers\\produtoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{750523A7-21ED-4CFF-BB1E-D6285B2217A1}|web-app-performance\\web-app-performance.csproj|solutionrelative:web-app-performance\\controllers\\produtoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{750523A7-21ED-4CFF-BB1E-D6285B2217A1}|web-app-performance\\web-app-performance.csproj|d:\\microservice-app-performance19-09-main\\web-app-performance\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{750523A7-21ED-4CFF-BB1E-D6285B2217A1}|web-app-performance\\web-app-performance.csproj|solutionrelative:web-app-performance\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A7B3E93-4D68-4317-83B0-778CA9BBF71C}|web-app-domain\\web-app-domain.csproj|d:\\microservice-app-performance19-09-main\\web-app-domain\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A7B3E93-4D68-4317-83B0-778CA9BBF71C}|web-app-domain\\web-app-domain.csproj|solutionrelative:web-app-domain\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{750523A7-21ED-4CFF-BB1E-D6285B2217A1}|web-app-performance\\web-app-performance.csproj|d:\\microservice-app-performance19-09-main\\web-app-performance\\web-app-performance.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{750523A7-21ED-4CFF-BB1E-D6285B2217A1}|web-app-performance\\web-app-performance.csproj|solutionrelative:web-app-performance\\web-app-performance.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AA66F56-3C4C-4E0B-869E-7E5E68BB4AA9}|web-app-repository\\web-app-repository.csproj|d:\\microservice-app-performance19-09-main\\web-app-repository\\web-app-repository.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7AA66F56-3C4C-4E0B-869E-7E5E68BB4AA9}|web-app-repository\\web-app-repository.csproj|solutionrelative:web-app-repository\\web-app-repository.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{750523A7-21ED-4CFF-BB1E-D6285B2217A1}|web-app-performance\\web-app-performance.csproj|d:\\microservice-app-performance19-09-main\\web-app-performance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{750523A7-21ED-4CFF-BB1E-D6285B2217A1}|web-app-performance\\web-app-performance.csproj|solutionrelative:web-app-performance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AA66F56-3C4C-4E0B-869E-7E5E68BB4AA9}|web-app-repository\\web-app-repository.csproj|d:\\microservice-app-performance19-09-main\\web-app-repository\\iprodutorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AA66F56-3C4C-4E0B-869E-7E5E68BB4AA9}|web-app-repository\\web-app-repository.csproj|solutionrelative:web-app-repository\\iprodutorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AA66F56-3C4C-4E0B-869E-7E5E68BB4AA9}|web-app-repository\\web-app-repository.csproj|d:\\microservice-app-performance19-09-main\\web-app-repository\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AA66F56-3C4C-4E0B-869E-7E5E68BB4AA9}|web-app-repository\\web-app-repository.csproj|solutionrelative:web-app-repository\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AA66F56-3C4C-4E0B-869E-7E5E68BB4AA9}|web-app-repository\\web-app-repository.csproj|d:\\microservice-app-performance19-09-main\\web-app-repository\\iusuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AA66F56-3C4C-4E0B-869E-7E5E68BB4AA9}|web-app-repository\\web-app-repository.csproj|solutionrelative:web-app-repository\\iusuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A7B3E93-4D68-4317-83B0-778CA9BBF71C}|web-app-domain\\web-app-domain.csproj|d:\\microservice-app-performance19-09-main\\web-app-domain\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A7B3E93-4D68-4317-83B0-778CA9BBF71C}|web-app-domain\\web-app-domain.csproj|solutionrelative:web-app-domain\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IProdutoRepository.cs",
+              "DocumentMoniker": "D:\\MicroService-App-Performance19-09-main\\web-app-repository\\IProdutoRepository.cs",
+              "RelativeDocumentMoniker": "web-app-repository\\IProdutoRepository.cs",
+              "ToolTip": "D:\\MicroService-App-Performance19-09-main\\web-app-repository\\IProdutoRepository.cs",
+              "RelativeToolTip": "web-app-repository\\IProdutoRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T00:00:36.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProdutoRepository.cs",
+              "DocumentMoniker": "D:\\MicroService-App-Performance19-09-main\\web-app-repository\\ProdutoRepository.cs",
+              "RelativeDocumentMoniker": "web-app-repository\\ProdutoRepository.cs",
+              "ToolTip": "D:\\MicroService-App-Performance19-09-main\\web-app-repository\\ProdutoRepository.cs",
+              "RelativeToolTip": "web-app-repository\\ProdutoRepository.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAIwAYAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T23:59:40.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "D:\\MicroService-App-Performance19-09-main\\web-app-domain\\Produto.cs",
+              "RelativeDocumentMoniker": "web-app-domain\\Produto.cs",
+              "ToolTip": "D:\\MicroService-App-Performance19-09-main\\web-app-domain\\Produto.cs",
+              "RelativeToolTip": "web-app-domain\\Produto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T23:25:44.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "D:\\MicroService-App-Performance19-09-main\\web-app-domain\\Usuario.cs",
+              "RelativeDocumentMoniker": "web-app-domain\\Usuario.cs",
+              "ToolTip": "D:\\MicroService-App-Performance19-09-main\\web-app-domain\\Usuario.cs",
+              "RelativeToolTip": "web-app-domain\\Usuario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T23:25:15.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UsuarioRepository.cs",
+              "DocumentMoniker": "D:\\MicroService-App-Performance19-09-main\\web-app-repository\\UsuarioRepository.cs",
+              "RelativeDocumentMoniker": "web-app-repository\\UsuarioRepository.cs",
+              "ToolTip": "D:\\MicroService-App-Performance19-09-main\\web-app-repository\\UsuarioRepository.cs",
+              "RelativeToolTip": "web-app-repository\\UsuarioRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T23:10:32.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "D:\\MicroService-App-Performance19-09-main\\web-app-performance\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "web-app-performance\\Controllers\\UsuarioController.cs",
+              "ToolTip": "D:\\MicroService-App-Performance19-09-main\\web-app-performance\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "web-app-performance\\Controllers\\UsuarioController.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAowDsAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T23:02:08.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProdutosController.cs",
+              "DocumentMoniker": "D:\\MicroService-App-Performance19-09-main\\web-app-performance\\Controllers\\ProdutosController.cs",
+              "RelativeDocumentMoniker": "web-app-performance\\Controllers\\ProdutosController.cs",
+              "ToolTip": "D:\\MicroService-App-Performance19-09-main\\web-app-performance\\Controllers\\ProdutosController.cs",
+              "RelativeToolTip": "web-app-performance\\Controllers\\ProdutosController.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAgwEwAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T22:55:05.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "web-app-repository",
+              "DocumentMoniker": "D:\\MicroService-App-Performance19-09-main\\web-app-repository\\web-app-repository.csproj",
+              "RelativeDocumentMoniker": "web-app-repository\\web-app-repository.csproj",
+              "ToolTip": "D:\\MicroService-App-Performance19-09-main\\web-app-repository\\web-app-repository.csproj",
+              "RelativeToolTip": "web-app-repository\\web-app-repository.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-03T23:17:51.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "web-app-performance",
+              "DocumentMoniker": "D:\\MicroService-App-Performance19-09-main\\web-app-performance\\web-app-performance.csproj",
+              "RelativeDocumentMoniker": "web-app-performance\\web-app-performance.csproj",
+              "ToolTip": "D:\\MicroService-App-Performance19-09-main\\web-app-performance\\web-app-performance.csproj",
+              "RelativeToolTip": "web-app-performance\\web-app-performance.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-03T23:17:19.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IUsuarioRepository.cs",
+              "DocumentMoniker": "D:\\MicroService-App-Performance19-09-main\\web-app-repository\\IUsuarioRepository.cs",
+              "RelativeDocumentMoniker": "web-app-repository\\IUsuarioRepository.cs",
+              "ToolTip": "D:\\MicroService-App-Performance19-09-main\\web-app-repository\\IUsuarioRepository.cs",
+              "RelativeToolTip": "web-app-repository\\IUsuarioRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T23:15:07.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\MicroService-App-Performance19-09-main\\web-app-performance\\Program.cs",
+              "RelativeDocumentMoniker": "web-app-performance\\Program.cs",
+              "ToolTip": "D:\\MicroService-App-Performance19-09-main\\web-app-performance\\Program.cs",
+              "RelativeToolTip": "web-app-performance\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA8AAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T22:54:49.273Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
